@@ -16,7 +16,7 @@ Add two files to the block repo.
 ```toml
 [[rule_sets]]
 name = "block"
-url = "https://github.com/vgpopov/block-review-rules.git"
+url = "https://github.com/milaboratory/block-review-rules.git"
 ref = "v0.1.0"
 ```
 
